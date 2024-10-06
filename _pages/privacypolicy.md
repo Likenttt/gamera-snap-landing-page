@@ -5,56 +5,39 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+September 24, 2024
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+### Scope of This Privacy Policy
 
-<br>
+This Privacy Policy applies to **Wuhan Newrathon Technology Co., Ltd** (hereinafter referred to as "we") in the context of obtaining, collecting, storing, processing, using, disclosing, or transmitting your personal information in written or electronic form. It also applies to situations where our authorized business partners use your personal information on our behalf. In some cases, other policies may also apply to you, for example, when you use certain products or services, in the following situations:
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+- When you use the product or service, you will be informed of any other policies that will apply.
+- Unless otherwise specified, this policy will supersede this Privacy Policy.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### Why We Collect Your Privacy Data？
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+We will collect, hold, use, and disclose your personal information for the purposes described in this section, and we will handle your personal information in accordance with the relevant laws and regulations in your jurisdiction and the relevant provisions of this section.
 
-<br>
+### Main Text
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+**Wuhan Newrathon Technology Co., Ltd** has developed GameraMobile, which is intended to be used as is. If someone decides to use our services, this page is used to inform visitors of our policies regarding the collection, use, and disclosure of personal information by us. If you choose to use "our services," you agree to the collection and use of information related to this policy. The personal information we collect is used to provide and improve services. Except as described in this Privacy Policy, we will not use or share your information with anyone.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+**Information Collection and Use**
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+The Bluetooth permission used by this application is solely for communication between Garmin watches and Apple phones. The camera permission is only used for taking photos for the user. This application does not collect any of your data. Data generated during the operation of the application will be stored locally on your device.
 
-<br>
+**Security**
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+We value your trust in providing us with your personal information, and we are striving to use commercially acceptable means to protect it. However, please remember that no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee its absolute security.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+**Changes to This Privacy Policy**
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+We may update this privacy policy from time to time. Therefore, we recommend that you review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-<br>
+This policy is effective from September 24, 2024.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+**Contact Us**
 
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+If you have any questions or suggestions regarding our Privacy Policy, please feel free to contact us at `contact@newrathon.com`。
