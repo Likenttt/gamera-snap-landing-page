@@ -37,7 +37,7 @@ features:
     fontawesome_icon_name: camera
 
   - title: Instant Photo Capture
-    description: Capture photos instantly with a single button press on your Garmin watch, perfect for spontaneous moments.
+    description: Capture photos instantly with a single button press on your Garmin watch, perfect for wonderful moments.
     fontawesome_icon_name: bolt
 
   - title: Delayed Photo Capture
