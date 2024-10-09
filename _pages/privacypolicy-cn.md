@@ -40,4 +40,4 @@ include_in_header: false
 
 ### 联系我们
 
-如果您对我们的《隐私政策》有任何疑问或建议，请随时通过 **gamerasnap@li2niu.com** 与我们联系。
+如果您对我们的《隐私政策》有任何疑问或建议，请随时通过 [gamerasnap@li2niu.com](mailto:gamerasnap@li2niu.com) 与我们联系。
