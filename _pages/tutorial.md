@@ -52,10 +52,11 @@ Set a countdown timer in the iOS app. This feature is perfect for group photos o
 - **Stability**: Keep your watch steady when taking a photo to avoid blurriness.
 - **Practice**: Familiarize yourself with the app's features to make the most of your photography experience.
 
-## Troubleshooting
+## FAQ
 
-- **App Not Responding**: If the app is unresponsive, try restarting your watch and iPhone.
-- **Connection Issues**: Ensure Bluetooth is enabled and that both devices are within range.
+1. **Can I use GameraSnap with system native camera?**: No, GameraSnap is a dedicated camera app for Garmin watches. It cannot control the system native camera.
+2. **App Not Responding?**: If the app is unresponsive, try restarting your watch and iPhone.
+3. **Connection Lost?**: Ensure Bluetooth is enabled and that both devices are within range.
 
 ## Conclusion
 
