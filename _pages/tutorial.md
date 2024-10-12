@@ -12,15 +12,10 @@ Welcome to GameraSnap! This guide will help you understand how to use the Gamera
 
 ### Installation
 
-1. **Download GameraSnap**:
-
-   - For Garmin devices, download the app from the following links:
-     - [中国大陆](https://apps.garmin.cn/zh-CN/apps/4c6ff771-c148-45d7-9099-c4c38bcbdccc)
-     - [International](https://apps.garmin.com/en-US/apps/4c6ff771-c148-45d7-9099-c4c38bcbdccc)
-   - For iOS devices, you can download the app via [TestFlight](https://testflight.apple.com/join/ZJ8aWrYs).
-
-2. **Install the App**:
-   - Follow the installation instructions on your device to complete the setup.
+- For Garmin devices, download the app from the following links:
+  - [中国大陆](https://apps.garmin.cn/zh-CN/apps/4c6ff771-c148-45d7-9099-c4c38bcbdccc)
+  - [International](https://apps.garmin.com/en-US/apps/4c6ff771-c148-45d7-9099-c4c38bcbdccc)
+- For iOS devices [GameraSnap](https://apps.apple.com/us/app/gamerasnap/id6736568453).
 
 ### Connecting Your Devices
 
