@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorial
+title: GameraSnap User Guide
 include_in_header: true
 ---
 
