@@ -4,21 +4,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <base target="_blank" />
 
-  <title class="pageTitle">{{ site.page_title }} - {{ page.title }}</title>
-  <meta name="description" content="{{ site.app_description }}" />
+  <!-- SEO Meta Tags -->
+  <title>
+    {{ site.page_title }}{% if page.title %} - {{ page.title }}{% endif %} |
+    Remote Camera Control for Garmin Watch
+  </title>
+  <meta
+    name="description"
+    content="GameraSnap - The ultimate camera remote control app for Garmin watches. Take photos easily with your Garmin watch, perfect for sports and outdoor photography."
+  />
   <meta
     name="keywords"
-    content="GameraSnap, Garmin, iPhone，Android, photography, app, sports, capture moments"
+    content="GameraSnap, Garmin watch camera, remote camera control, Garmin photography, sports photography app, iPhone camera remote, Garmin watch app"
   />
-  <meta name="author" content="li2niu" />
+  <meta name="author" content="GameraSnap Team" />
 
+  <!-- Open Graph Meta Tags (for social sharing) -->
+  <meta
+    property="og:title"
+    content="GameraSnap - Remote Camera Control for Garmin Watch"
+  />
+  <meta
+    property="og:description"
+    content="Control your iPhone camera with your Garmin watch. Perfect for sports and outdoor photography."
+  />
+  <meta
+    property="og:image"
+    content="{{ site.url }}{{ site.app_icon | relative_url }}"
+  />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    name="twitter:title"
+    content="GameraSnap - Remote Camera Control for Garmin Watch"
+  />
+  <meta
+    name="twitter:description"
+    content="Control your iPhone camera with your Garmin watch. Perfect for sports and outdoor photography."
+  />
+  <meta
+    name="twitter:image"
+    content="{{ site.url }}{{ site.app_icon | relative_url }}"
+  />
+
+  <!-- Favicon -->
   <link rel="shortcut icon" href="{{ site.app_icon | relative_url }}" />
+  <link rel="apple-touch-icon" href="{{ site.app_icon | relative_url }}" />
 
   <!-- Smart App Banner -->
   {% if site.enable_smart_app_banner %}
   <meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}" />
   {% endif %}
 
+  <!-- Stylesheets -->
   <link
     rel="stylesheet"
     href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
@@ -26,4 +67,26 @@
     crossorigin="anonymous"
   />
   <link rel="stylesheet" href="{{ '/main.css' | relative_url }}" />
+
+  <!-- Schema.org structured data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "GameraSnap",
+      "applicationCategory": "Photography App",
+      "operatingSystem": "iOS",
+      "description": "Remote camera control app for Garmin watches, perfect for sports and outdoor photography",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "18"
+      }
+    }
+  </script>
 </head>

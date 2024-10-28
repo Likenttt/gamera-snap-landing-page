@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamerasnap.li2niu.com/sitemap.xml
