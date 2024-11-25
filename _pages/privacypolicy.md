@@ -26,7 +26,7 @@ We will collect, hold, use, and disclose your personal information for the purpo
 
 ### Information Collection and Use
 
-The Bluetooth permission used by this application is solely for communication between Garmin watches and Apple phones. The camera permission is only used for taking photos for the user. This application does not collect any of your data. Data generated during the operation of the application will be stored locally on your device.
+The Bluetooth permission used by this application is solely for communication between Garmin watches and mobile phones. The camera permission is only used for taking photos for the user. This application does not collect any of your data. Data generated during the operation of the application will be stored locally on your device.
 
 ### Security
 
